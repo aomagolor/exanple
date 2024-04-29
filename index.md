@@ -6,5 +6,5 @@
 
 ## リンク
 
-- [About](/about)
-- [Blog](/blog)
+- [About](about)
+- [Blog](blog)
