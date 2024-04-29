@@ -1,3 +1,3 @@
-# About Me
+# About
 
-Hello, I'm John Doe...
+私について詳しく書きます。
